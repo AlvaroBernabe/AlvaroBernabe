@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently doing a Microsoft Challengue about GitHub.
+- 🔭 I’m currently studying Symfony and Angular, but there is still a long way to go.
 - 🌱 I’ll start in a few days with testing with Cypress and Jest.
-- 🌱 I’ll start with Symfony and Angular when i finish practicing testing.
 - 🌱 I’ll go back to practice everything when i´m done with that.
 - 📫 How to reach me: alvaro101093@gmail.com
 <!--
