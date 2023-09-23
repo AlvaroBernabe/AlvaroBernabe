@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studying Symfony and Angular, but there is still a long way to go.
-- 🌱 I’ll start in a few days with testing with Cypress and Jest.
+- 🔭 I’m currently studying Vue and testing with Jest, but there is still a long way to go.
 - 🌱 I’ll go back to practice everything when i´m done with that.
 - 📫 How to reach me: alvaro101093@gmail.com
 <!--
