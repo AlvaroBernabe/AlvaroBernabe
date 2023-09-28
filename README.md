@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studying Vue and testing with Jest, but there is still a long way to go.
+- 🔭 I’m also studying TypeScript, but i´m more focused on the testing side.
 - 🌱 I’ll go back to practice everything when i´m done with that.
 - 📫 How to reach me: alvaro101093@gmail.com
 <!--
